@@ -1,2 +1,2 @@
-# simicsjulia-github.io
+# simicsjulia.github.io
 Demo page.
